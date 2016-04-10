@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.lb.lt/webservices/ExchangeRates/ExchangeRates.asmx?WSDL" uri="wsdl/www.lb.lt/webservices/ExchangeRates/ExchangeRates.asmx.wsdl"/>
+    <system systemId="http://webservices.lb.lt/ExchangeRates/ExchangeRates.asmx?WSDL" uri="wsdl/webservices.lb.lt/ExchangeRates/ExchangeRates.asmx.wsdl"/>
+    <system systemId="http://wsf.cdyne.com/SpellChecker/check.asmx?wsdl" uri="wsdl/wsf.cdyne.com/SpellChecker/check.asmx.wsdl"/>
+    <system systemId="file:/C:/Users/developement/Desktop/Documents/NetBeansProjects/ExchangeRates/web/WEB-INF/wsdl/ExchangeRates.wsdl" uri="wsdl/ExchangeRates.wsdl"/>
+</catalog>
